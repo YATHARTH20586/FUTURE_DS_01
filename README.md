@@ -13,6 +13,3 @@ Data cleaning, KPI analysis, dashboard design, business storytelling, recommenda
 About me
 
 Yatharth Sarwan | BCA (CGPA 8.39) | PG Diploma in Data Science (Symbiosis, in progress) SQL · Excel · Tableau · Power BI · Python · R
-
-
-
