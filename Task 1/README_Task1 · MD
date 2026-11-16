@@ -1,0 +1,33 @@
+Task 1 – Sales Performance Analysis
+Business question
+
+Which products generate the most revenue, how do sales change over time, and where should the business focus to grow faster?
+
+Data
+Online retail transaction dataset (online_retail.csv, zipped because of file size).
+Raw data: it needed cleaning before analysis.
+
+Tools
+Excel – data cleaning and preparation
+Tableau – dashboard and visual analysis
+
+Method
+Cleaned the raw data (removed duplicates, handled missing values, removed cancelled or invalid orders, created a revenue column).
+Built KPIs: total revenue, order count, average order value.
+Analyzed revenue over time, top-selling products, and high-value categories and regions.
+Built a Tableau dashboard and wrote a short business report.
+
+Key insights
+[Add your top finding here, e.g. top product or best month, with the number from your dashboard]
+[Add a second finding, e.g. the top country or category]
+
+Recommendations
+Focus stock and promotion on the top-selling products.
+Plan campaigns around the strongest sales months.
+Invest more in the highest-revenue regions or categories.
+
+Files
+TechStore Report.docx – full written report
+TechStore_Sales_Project_2026 – Tableau workbook
+image.png – dashboard screenshot
+online_retail.csv.zip – dataset
